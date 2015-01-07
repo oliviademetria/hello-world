@@ -1,2 +1,4 @@
 # hello-world
-learning how to git
+learn how to use git 
+by doing the activity on 
+https://guides.github.com/activities/hello-world/
